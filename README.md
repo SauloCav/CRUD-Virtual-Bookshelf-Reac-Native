@@ -70,9 +70,9 @@ Make sure you have the following installed:
 
 ## Acces
 
-- **Login:** login123
+- **Email:** email.email.com
 
-- **Password:** pass123
+- **Password:** pass12345
 
 
 ## License
