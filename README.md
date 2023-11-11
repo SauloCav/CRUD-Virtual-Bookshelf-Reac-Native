@@ -18,7 +18,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/my-book-app.git
+   git clone [https://github.com/SauloCav/CRUD-Virtual-Bookshelf-Reac-Native/tree/main
    cd my-book-app
    ```
 
@@ -78,7 +78,6 @@ Make sure you have the following installed:
 ## Acces
 
 - **Email:** email.email.com
-
 - **Password:** pass12345
 
 
