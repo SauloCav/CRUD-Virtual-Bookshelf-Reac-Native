@@ -68,11 +68,11 @@ Make sure you have the following installed:
 - **Delete Book Screen:** Provides a confirmation before deleting a book.
 
 <p align="center">
-  <img src="img/01.jpg" width="190" />
-  <img src="img/02.jpg" width="190" /> 
-  <img src="img/03.jpg" width="190" />
-  <img src="img/04.jpg" width="190" /> 
-  <img src="img/05.jpg" width="190" />
+  <img src="img/01.jpg" width="180" />
+  <img src="img/02.jpg" width="180" /> 
+  <img src="img/03.jpg" width="180" />
+  <img src="img/04.jpg" width="180" /> 
+  <img src="img/05.jpg" width="180" />
 </p>
 
 ## Acces
